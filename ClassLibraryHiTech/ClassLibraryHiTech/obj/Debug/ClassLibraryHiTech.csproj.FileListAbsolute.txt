@@ -1,0 +1,10 @@
+c:\users\kevin\documents\visual studio 2015\Projects\ClassLibraryHiTech\ClassLibraryHiTech\bin\Debug\ClassLibraryHiTech.dll
+c:\users\kevin\documents\visual studio 2015\Projects\ClassLibraryHiTech\ClassLibraryHiTech\bin\Debug\ClassLibraryHiTech.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\ClassLibraryHiTech\ClassLibraryHiTech\obj\Debug\ClassLibraryHiTech.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\ClassLibraryHiTech\ClassLibraryHiTech\obj\Debug\ClassLibraryHiTech.dll
+c:\users\kevin\documents\visual studio 2015\Projects\ClassLibraryHiTech\ClassLibraryHiTech\obj\Debug\ClassLibraryHiTech.pdb
+C:\FinalProject\ClassLibraryHiTech\ClassLibraryHiTech\bin\Debug\ClassLibraryHiTech.dll
+C:\FinalProject\ClassLibraryHiTech\ClassLibraryHiTech\bin\Debug\ClassLibraryHiTech.pdb
+C:\FinalProject\ClassLibraryHiTech\ClassLibraryHiTech\obj\Debug\ClassLibraryHiTech.csprojResolveAssemblyReference.cache
+C:\FinalProject\ClassLibraryHiTech\ClassLibraryHiTech\obj\Debug\ClassLibraryHiTech.dll
+C:\FinalProject\ClassLibraryHiTech\ClassLibraryHiTech\obj\Debug\ClassLibraryHiTech.pdb
